@@ -26,4 +26,6 @@
     wget
     scp
     crontab
+    python
+    
 
